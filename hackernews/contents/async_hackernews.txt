@@ -1,0 +1,661 @@
+
+        count: 1,
+
+        link: https://www.canarymedia.com/articles/recycling-renewables/the-biggest-ev-battery-recycling-plant-in-the-us-is-open-for-business,
+
+        title: The biggest EV battery recycling plant in the US is open for business(canarymedia.com),
+
+        score: 245 points,
+
+        comments: 93 comments
+
+        --------------------------------------------------
+        count: 2,
+
+        link: https://bugzilla.mozilla.org/show_bug.cgi?id=1441918,
+
+        title: Microsoft fixes 5-year-old Defender bug, reducing Firefox-related CPU use by 75%(bugzilla.mozilla.org),
+
+        score: 367 points,
+
+        comments: 135 comments
+
+        --------------------------------------------------
+        count: 3,
+
+        link: https://szopa.medium.com/teaching-chatgpt-to-speak-my-sons-invented-language-9d109c0a0f05,
+
+        title: Teaching ChatGPT to Speak My Son’s Invented Language(szopa.medium.com),
+
+        score: 68 points,
+
+        comments: 18 comments
+
+        --------------------------------------------------
+        count: 4,
+
+        link: https://davidmuller.github.io/posts/2023/04/10/how-i-fixed-a-parasitic-drain-in-408-days.html,
+
+        title: I fixed a parasitic drain on my car in 408 days(davidmuller.github.io),
+
+        score: 149 points,
+
+        comments: 160 comments
+
+        --------------------------------------------------
+        count: 5,
+
+        link: https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/,
+
+        title: Keycloak with PostgreSQL on Kubernetes(brakmic.com),
+
+        score: 18 points,
+
+        comments: 0 comments
+
+        --------------------------------------------------
+        count: 6,
+
+        link: https://denyslinkov.medium.com/why-is-gpt-3-15-77x-more-expensive-for-certain-languages-2b19a4adc4bc,
+
+        title: Why is GPT-3 15.77x more expensive for certain languages?(denyslinkov.medium.com),
+
+        score: 99 points,
+
+        comments: 85 comments
+
+        --------------------------------------------------
+        count: 7,
+
+        link: http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm,
+
+        title: RePalm(dmitry.gr),
+
+        score: 376 points,
+
+        comments: 107 comments
+
+        --------------------------------------------------
+        count: 8,
+
+        link: https://borretti.me/article/effective-spaced-repetition,
+
+        title: Effective Spaced Repetition(borretti.me),
+
+        score: 301 points,
+
+        comments: 146 comments
+
+        --------------------------------------------------
+        count: 9,
+
+        link: https://floor796.com/#t4r0,512,512,
+
+        title: Ever-expanding animation of the life of the 796th floor of a space station(floor796.com),
+
+        score: 735 points,
+
+        comments: 73 comments
+
+        --------------------------------------------------
+        count: 10,
+
+        link: https://www.popularmechanics.com/technology/a43400768/how-to-get-started-in-soldering/,
+
+        title: How To Get Started In Soldering(popularmechanics.com),
+
+        score: 195 points,
+
+        comments: 150 comments
+
+        --------------------------------------------------
+        count: 11,
+
+        link: https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn,
+
+        title: Motion (YC W20) Is Hiring Senior Software Engineers(ashbyhq.com),
+
+        score: 0 points,
+
+        comments: 0 comments
+
+        --------------------------------------------------
+        count: 12,
+
+        link: https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/,
+
+        title: Use GitHub Actions to Make Your GitHub Profile Dynamic(bengreenberg.dev),
+
+        score: 37 points,
+
+        comments: 10 comments
+
+        --------------------------------------------------
+        count: 13,
+
+        link: https://phys.org/news/2023-04-previously-unknown-isotope-uranium.html,
+
+        title: Previously unknown isotope of uranium discovered(phys.org),
+
+        score: 57 points,
+
+        comments: 38 comments
+
+        --------------------------------------------------
+        count: 14,
+
+        link: https://decodebytes.substack.com/p/night-of-the-living-brain-fog-dead,
+
+        title: Night of the living brain fog dead or how I hacked myself better via open source(decodebytes.substack.com),
+
+        score: 372 points,
+
+        comments: 198 comments
+
+        --------------------------------------------------
+        count: 15,
+
+        link: https://arxiv.org/abs/2210.07558,
+
+        title: DyLoRA: Parameter Efficient Tuning of Pre-Trained Models(arxiv.org),
+
+        score: 37 points,
+
+        comments: 5 comments
+
+        --------------------------------------------------
+        count: 16,
+
+        link: https://www.salon.com/2023/03/01/first-life-on-earth-amino-acid-study/,
+
+        title: New study sheds light on how amino acids “evolved”(salon.com),
+
+        score: 42 points,
+
+        comments: 4 comments
+
+        --------------------------------------------------
+        count: 17,
+
+        link: https://www.youtube.com/watch?v=CFyd-kC6IUw,
+
+        title: Rare corn can self-fertilise [video](youtube.com),
+
+        score: 28 points,
+
+        comments: 12 comments
+
+        --------------------------------------------------
+        count: 18,
+
+        link: https://en.wikipedia.org/wiki/Hit_Man:_A_Technical_Manual_for_Independent_Contractors,
+
+        title: Hit Man: A Technical Manual for Independent Contractors(wikipedia.org),
+
+        score: 51 points,
+
+        comments: 30 comments
+
+        --------------------------------------------------
+        count: 19,
+
+        link: https://simplicityissota.substack.com/p/p-005-considered-harmful,
+
+        title: P < 0.05 Considered Harmful(simplicityissota.substack.com),
+
+        score: 59 points,
+
+        comments: 53 comments
+
+        --------------------------------------------------
+        count: 20,
+
+        link: https://jakob.space/blog/what-ive-learned-about-formal-methods.html,
+
+        title: What I've Learned About Formal Methods in Half a Year(jakob.space),
+
+        score: 112 points,
+
+        comments: 51 comments
+
+        --------------------------------------------------
+        count: 21,
+
+        link: https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/,
+
+        title: Dashcam footage shows driverless cars clogging San Francisco(wired.com),
+
+        score: 94 points,
+
+        comments: 148 comments
+
+        --------------------------------------------------
+        count: 22,
+
+        link: https://www.nytimes.com/2023/04/09/world/asia/india-tiger-conservation-success.html,
+
+        title: India’s Tigers Bounce Back(nytimes.com),
+
+        score: 110 points,
+
+        comments: 44 comments
+
+        --------------------------------------------------
+        count: 23,
+
+        link: https://math.stackexchange.com/questions/259584/why-dont-we-define-imaginary-numbers-for-every-impossibility,
+
+        title: Why don't we define “imaginary” numbers for every “impossibility”? (2012)(math.stackexchange.com),
+
+        score: 67 points,
+
+        comments: 52 comments
+
+        --------------------------------------------------
+        count: 24,
+
+        link: https://blog.sbensu.com/posts/everybody-is-the-main-character/,
+
+        title: Everybody is the main character(sbensu.com),
+
+        score: 52 points,
+
+        comments: 30 comments
+
+        --------------------------------------------------
+        count: 25,
+
+        link: https://twitter.com/molly0xFFF/status/1645217786698903559,
+
+        title: FTX stored private keys to crypto assets in plaintext, without access controls(twitter.com/molly0xfff),
+
+        score: 252 points,
+
+        comments: 126 comments
+
+        --------------------------------------------------
+        count: 26,
+
+        link: https://bytes.zone/posts/modeling-git-internals-in-alloy-part-2-commits-and-tags/,
+
+        title: Modeling Git Internals in Alloy, Part 2: Commits and Tags(bytes.zone),
+
+        score: 98 points,
+
+        comments: 9 comments
+
+        --------------------------------------------------
+        count: 27,
+
+        link: https://www.openbsd.org/73.html,
+
+        title: OpenBSD 7.3(openbsd.org),
+
+        score: 191 points,
+
+        comments: 56 comments
+
+        --------------------------------------------------
+        count: 28,
+
+        link: https://github.com/nomic-ai/deepscatter,
+
+        title: Zoomable, animated scatterplots in the browser that scales over a billion points(github.com/nomic-ai),
+
+        score: 119 points,
+
+        comments: 12 comments
+
+        --------------------------------------------------
+        count: 29,
+
+        link: https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot,
+
+        title: Personal Concierge Using OpenAI's ChatGPT via Telegram and Voice Messages(github.com/rafalwilinski),
+
+        score: 183 points,
+
+        comments: 74 comments
+
+        --------------------------------------------------
+        count: 30,
+
+        link: https://samthor.au/2023/aws-amplify-is-a-grift/,
+
+        title: Problems with AWS Amplify and its use of DynamoDB(samthor.au),
+
+        score: 112 points,
+
+        comments: 58 comments
+
+        --------------------------------------------------
+        count: 31,
+
+        link: https://twitter.com/krisjusiak/status/1645360641538945025,
+
+        title: static_assert is all you need (no leaks, no UB)(twitter.com/krisjusiak),
+
+        score: 89 points,
+
+        comments: 61 comments
+
+        --------------------------------------------------
+        count: 32,
+
+        link: https://www.cnbc.com/2020/10/07/tesla-app-butt-dial-purchases-still-possible-refunds-hard-to-get.html,
+
+        title: Tesla owner butt-dialed a $4,280 Autopilot upgrade, still waiting on a refund(cnbc.com),
+
+        score: 18 points,
+
+        comments: 9 comments
+
+        --------------------------------------------------
+        count: 33,
+
+        link: https://rosenzweig.io/blog/passing-reins-panfrost.html,
+
+        title: Passing the Reins on Panfrost(rosenzweig.io),
+
+        score: 6 points,
+
+        comments: 0 comments
+
+        --------------------------------------------------
+        count: 34,
+
+        link: https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/,
+
+        title: The Epic Story of Container Shipping (2009)(ribbonfarm.com),
+
+        score: 12 points,
+
+        comments: 1 comment
+
+        --------------------------------------------------
+        count: 35,
+
+        link: https://github.com/sail-sg/EditAnything,
+
+        title: EditAnything: Segment Anything + ControlNet + BLIP2 + Stable Diffusion(github.com/sail-sg),
+
+        score: 183 points,
+
+        comments: 22 comments
+
+        --------------------------------------------------
+        count: 36,
+
+        link: https://cohost.org/cathoderaydude/post/1311259-hell-never-ends-on-x,
+
+        title: Hell Never Ends on x86: The Hyperspace Story, Continued, Sort Of(cohost.org),
+
+        score: 257 points,
+
+        comments: 70 comments
+
+        --------------------------------------------------
+        count: 37,
+
+        link: https://openjdk.org/jeps/445,
+
+        title: JEP 445: Flexible Main Methods and Anonymous Main Classes (Preview)(openjdk.org),
+
+        score: 5 points,
+
+        comments: 2 comments
+
+        --------------------------------------------------
+        count: 38,
+
+        link: https://arstechnica.com/science/2023/04/in-a-first-researchers-track-brain-activity-in-a-free-moving-octopus/,
+
+        title: We’re one step closer to reading an octopus’s mind(arstechnica.com),
+
+        score: 14 points,
+
+        comments: 4 comments
+
+        --------------------------------------------------
+        count: 39,
+
+        link: https://arxiv.org/abs/2304.03589,
+
+        title: On Efficient Training of Large-Scale Deep Learning Models: A Literature Review(arxiv.org),
+
+        score: 11 points,
+
+        comments: 0 comments
+
+        --------------------------------------------------
+        count: 40,
+
+        link: https://www.washingtonpost.com/us-policy/2023/04/06/walmart-ev-charging/,
+
+        title: Walmart to add EV charging to thousands of stores by 2030(washingtonpost.com),
+
+        score: 22 points,
+
+        comments: 15 comments
+
+        --------------------------------------------------
+        count: 41,
+
+        link: https://www.beautifulpublicdata.com/1000-photos-of-dolphin-fins/,
+
+        title: 1k Photos of Dolphin Fins(beautifulpublicdata.com),
+
+        score: 17 points,
+
+        comments: 1 comment
+
+        --------------------------------------------------
+        count: 42,
+
+        link: https://vigneshwarar.substack.com/p/hackernews-ranking-algorithm-how,
+
+        title: Hacker News Ranking Algorithm(vigneshwarar.substack.com),
+
+        score: 156 points,
+
+        comments: 71 comments
+
+        --------------------------------------------------
+        count: 43,
+
+        link: https://hackernewsrecap.buzzsprout.com/2170103/12620404-hacker-news-recap-april-9th-2023?t=0,
+
+        title: Show HN: The HN Recap – A daily podcast that recaps the top HN posts of the day(buzzsprout.com),
+
+        score: 7 points,
+
+        comments: 1 comment
+
+        --------------------------------------------------
+        count: 44,
+
+        link: item?id=35512338,
+
+        title: Ask HN: Open source LLM for commercial use?,
+
+        score: 112 points,
+
+        comments: 39 comments
+
+        --------------------------------------------------
+        count: 45,
+
+        link: https://www.texasmonthly.com/arts-entertainment/mack-mccormick-quest-to-find-real-robert-johnson/,
+
+        title: Mack McCormick’s Long, Tortured Quest to Find the Real Robert Johnson(texasmonthly.com),
+
+        score: 30 points,
+
+        comments: 4 comments
+
+        --------------------------------------------------
+        count: 46,
+
+        link: https://reverie.herokuapp.com/arXiv_Demo/,
+
+        title: Generative Agents: Interactive Simulacra of Human Behavior(reverie.herokuapp.com),
+
+        score: 11 points,
+
+        comments: 4 comments
+
+        --------------------------------------------------
+        count: 47,
+
+        link: https://johnhorgan.org/cross-check/my-controversial-diatribe-against-skeptics,
+
+        title: My diatribe against “skeptics” (2016)(johnhorgan.org),
+
+        score: 101 points,
+
+        comments: 88 comments
+
+        --------------------------------------------------
+        count: 48,
+
+        link: https://www.cnn.com/2023/04/10/business/commercial-real-estate-banks-offices/index.html,
+
+        title: American offices are half-empty. That could be the next big risk for banks(cnn.com),
+
+        score: 6 points,
+
+        comments: 1 comment
+
+        --------------------------------------------------
+        count: 49,
+
+        link: https://yjdoc2.github.io/8086-emulator-web/,
+
+        title: Online 8086 Emulator(yjdoc2.github.io),
+
+        score: 42 points,
+
+        comments: 34 comments
+
+        --------------------------------------------------
+        count: 50,
+
+        link: https://ntietz.com/blog/feature-flags-and-authorization/,
+
+        title: Feature flags and authorization abstract the same concept(ntietz.com),
+
+        score: 11 points,
+
+        comments: 0 comments
+
+        --------------------------------------------------
+        count: 51,
+
+        link: https://docs.datomic.com/cloud/other-tools/REBL.html,
+
+        title: REBL(datomic.com),
+
+        score: 104 points,
+
+        comments: 54 comments
+
+        --------------------------------------------------
+        count: 52,
+
+        link: https://techcrunch.com/2023/04/10/twitter-circle-bug-not-private/,
+
+        title: Twitter Circle tweets are not that private anymore(techcrunch.com),
+
+        score: 22 points,
+
+        comments: 0 comments
+
+        --------------------------------------------------
+        count: 53,
+
+        link: https://spectrum.ieee.org/ai-taking-over-jobs,
+
+        title: AI Can't Take over Everyone's Jobs Soon (If Ever)(ieee.org),
+
+        score: 32 points,
+
+        comments: 49 comments
+
+        --------------------------------------------------
+        count: 54,
+
+        link: https://thesequence.substack.com/p/the-llama-effect-how-an-accidental,
+
+        title: The LLama Effect: Leak Sparked a Series of Open Source Alternatives to ChatGPT(thesequence.substack.com),
+
+        score: 719 points,
+
+        comments: 438 comments
+
+        --------------------------------------------------
+        count: 55,
+
+        link: https://blog.trymito.io/5-lessons-learned-from-adding-chatgpt-to-a-mature-product/,
+
+        title: Lessons learned from adding ChatGPT to our mature product(trymito.io),
+
+        score: 10 points,
+
+        comments: 0 comments
+
+        --------------------------------------------------
+        count: 56,
+
+        link: item?id=35514464,
+
+        title: Ask HN: What is your experience with layoffs?,
+
+        score: 14 points,
+
+        comments: 15 comments
+
+        --------------------------------------------------
+        count: 57,
+
+        link: https://en.wikipedia.org/wiki/Up_(film_series),
+
+        title: Up (Film Series)(wikipedia.org),
+
+        score: 75 points,
+
+        comments: 18 comments
+
+        --------------------------------------------------
+        count: 58,
+
+        link: https://www.bloomberg.com/news/articles/2023-04-10/apple-s-40-plunge-leads-pc-shipments-down-as-tech-demand-sags,
+
+        title: Apple’s plunge in PC shipments is steepest among major computer makers(bloomberg.com),
+
+        score: 151 points,
+
+        comments: 290 comments
+
+        --------------------------------------------------
+        count: 59,
+
+        link: https://www.theverge.com/2023/4/10/23677157/ev-rules-epa-emission-standards-biden-ice-gas-car-end,
+
+        title: The end is nigh for gas-powered cars(theverge.com),
+
+        score: 8 points,
+
+        comments: 3 comments
+
+        --------------------------------------------------
+        count: 60,
+
+        link: https://forgeperf.org/,
+
+        title: Software Forge Performance Index(forgeperf.org),
+
+        score: 19 points,
+
+        comments: 13 comments
+
+        --------------------------------------------------

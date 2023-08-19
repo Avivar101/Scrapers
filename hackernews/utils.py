@@ -16,31 +16,30 @@ def timeit(func):
 		return result
 	return wrapper
 
-def get_html(num_of_pages, headers):
+def get_html(num_of_pages:int, headers:dict, filename:str):
     for i in range(num_of_pages):
         page = i + 1
         r = requests.get(f"https://news.ycombinator.com/?p={page}", headers=headers)
         soup = BeautifulSoup(r.content, "html.parser")
-        selector(soup)
+        selector(soup, filename)
 
-async def async_get_html(num_of_pages:int, headers:dict):
+async def async_get_html(num_of_pages:int, headers:dict, filename:str):
      for i in range(num_of_pages):
-          await request_page(i, headers)
+          await request_page(i, headers, filename)
 
-async def request_page(i, headers):
+async def request_page(i, headers:dict, filename:str):
      page = i + 1
      r = requests.get(f"https://news.ycombinator.com/?p={page}", headers=headers)
      soup = BeautifulSoup(r.content, "html.parser")
-     await selector(soup)
+     await selector(soup, filename)
 
 
-def threading_get_html(page, headers):
-    print("scrape")
+def concurrent_get_html(page, headers:dict, filename:str):
     r = requests.get(f"https://news.ycombinator.com/?p={page+1}", headers=headers)
     soup = BeautifulSoup(r.content, "html.parser")
-    selector(soup)
+    selector(soup, filename)
 
-async def selector(soup):
+async def selector(soup, filename):
     global aggregate_count
     for item in soup.find_all('tr', class_='athing'):
         item_a = item.find('span', class_='titleline')
@@ -65,8 +64,8 @@ async def selector(soup):
         comments: {item_comments}\n
         --------------------------------------------------"""
         
-        write_to_txt(text)
+        write_to_txt(text, filename)
 
-def write_to_txt(text):
-    with open("content/async_hackernews.txt", "+a", encoding="UTF-8") as file:
+def write_to_txt(text, filename):
+    with open(f"contents/{filename}", "+a", encoding="UTF-8") as file:
         file.write(text)
